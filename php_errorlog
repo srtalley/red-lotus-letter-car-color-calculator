@@ -1,0 +1,7 @@
+[30-Jul-2019 11:05:18 CST6CDT] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (-08-) at position 3 (-): Unexpected character in /home/redlotus/public_html/wp-content/plugins/rl-car-color-calc/rlccc-kclrs.php:29
+Stack trace:
+#0 /home/redlotus/public_html/wp-content/plugins/rl-car-color-calc/rlccc-kclrs.php(29): DateTime->__construct('-08-')
+#1 /home/redlotus/public_html/wp-content/plugins/rl-car-color-calc/rlccc-kclrs.php(45): rlccc_date_valid('-08-')
+#2 /home/redlotus/public_html/wp-content/plugins/rl-car-color-calc/rlccc-kclrs.php(150): check_params()
+#3 {main}
+  thrown in /home/redlotus/public_html/wp-content/plugins/rl-car-color-calc/rlccc-kclrs.php on line 29
