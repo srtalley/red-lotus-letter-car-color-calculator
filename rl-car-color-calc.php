@@ -4,7 +4,7 @@ Plugin Name: Red Lotus Car Color Calculator
 Plugin URI: http://redlotusletter.com
 Description: The Car Color Calculator
 Author: Red Lotus Letter
-Version: 1.1.2
+Version: 1.1.3
 Author URI: http://redlotusletter.com
 */
 
